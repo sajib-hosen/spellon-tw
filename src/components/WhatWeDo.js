@@ -20,7 +20,7 @@ const WhatWeDo = () => {
 
 
             {/* box div ---------------------------- */}
-            <div>
+            <div className='mb-10 '>
                 <div className='border mx-2 lg:mx-auto mt-10 border-border-400 mx-auto max-w-4xl rounded-full'>
                     <div className='shadow-my p-2 m rounded-full '>
                         <div className='border relative border-dashed border-dsBdr-400 m-14 rounded-full '>
